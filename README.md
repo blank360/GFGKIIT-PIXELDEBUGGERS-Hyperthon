@@ -15,4 +15,4 @@ Collections: Organize images into collections.
 
 Infinite Scrolling: Load new posts automatically as users scroll
 
-Link to demonstration video: 
+Link to demonstration video: https://drive.google.com/file/d/1DY7mAi3Y0ZNGCbAe14I6kTYC5BHRl9Qo/view?usp=drivesdk
